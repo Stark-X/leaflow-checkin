@@ -2,7 +2,7 @@ name: LeafLow Auto Checkin
 
 on:
   schedule:
-    - cron: '13 8 * * *'  # 每天 16:30 UTC+8
+    - cron: '15 8 * * *'  # 每天 16:30 UTC+8
   workflow_dispatch:
 
 jobs:
